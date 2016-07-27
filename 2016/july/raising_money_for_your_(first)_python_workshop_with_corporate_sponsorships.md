@@ -5,11 +5,11 @@ If you're planning to run a programming workshop, you'll probably need to raise 
 
 **Why would companies want to give you money?**
 
-~~*Myth: Companies aren't interested in your events.* 
+~~*Myth: Companies aren't interested in your events.*~~ 
 
-Take any group of coders and ask them how they found their job. You're more than likely to find that coders found their company because that company sponsored a workshops or a particular group or conference that interests them.
+~~Take any group of coders and ask them how they found their job. You're more than likely to find that coders found their company because that company sponsored a workshops or a particular group or conference that interests them.~~
 
-As a Python shop, then, it is in a company's interest to promote a Python events in their area! Companies receive quite a bit more than verbal recognition when they sponsor events they put themselves on the radar of passionate inquisitive coders, the type of folks they often want to hire!~~
+~~As a Python shop, then, it is in a company's interest to promote a Python events in their area! Companies receive quite a bit more than verbal recognition when they sponsor events they put themselves on the radar of passionate inquisitive coders, the type of folks they often want to hire!~~
 
 Companies may be interested in sponsoring Python workshops for a number of reasons.  If a company is hiring new developers, they may hope to interest your volunteers and workshop attendees in working for their company or referring their friends to work for their company.  They may also want to raise awareness of their services to your workshop attendees.  Or they may simply be out to sponsor your event because it makes their employees feel good to assist constructive community-building efforts in their neighborhood.
 
