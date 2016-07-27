@@ -3,7 +3,7 @@
 
 If you're planning to run a programming workshop, you'll probably need to raise money to cover the cost of food, venue, and decorations.  You can ask the PSF for a grant (and [you should](https://www.python.org/psf/grants/))!  But PSF grants aren't the only place to seek financial help for your workshop.  You should also consider identifying companies that will sponsor your event.
 
-**Why would companies want to give you money?**
+### Why would companies want to give you money?
 
 ~~*Myth: Companies aren't interested in your events.*~~ 
 
@@ -17,7 +17,7 @@ Remember it is a **win-win relationship**. Companies receive several perks inclu
 
 ~~Obtaining corporate sponsorship isn't about convincing companies it is in their best interest to sponsor you: instead it's about finding the right companies to sponsor you.~~ (not sure what that statement means. A convincing pitch seems worthwhile.)
 
-**When targeting companies begin by defining the audience of your event - who is going to be participating, what folks care about the event content. Your audience makes your event unique and worth investing in!**
+When targeting companies begin by **defining the audience of your event** - who is going to be participating, what folks care about the event content. Your audience makes your event unique and worth investing in!
 
 By defining the audience for your event you can narrow the scope of companies you want to approach. 
 
@@ -32,13 +32,13 @@ From our audience we knew to look for companies that:
 
 **TODO**: More info on how to refine the search for companies + link for more discussion?
 
-**What should you promise companies in return for sponsorship?**
+### What should you promise companies in return for sponsorship?
 
 Define some specific asks. Asking for a blanket sum of money could alienate companies.
 
 You are the one driving the conversation and you are the one **setting expectations**.  As such you want to make sure that you clearly define what companies will receive in return for their sponsorship.
 
-**How much money should we ask each company for?**
+### How much money should we ask each company for?
 
 **TODO**: make a prospectus with sponsorship tiers
 
@@ -92,16 +92,11 @@ It's more meaningful to have 2 good partners than to have 10 who don't care abou
 If you appeal to the companies that value your values in a way that speaks to their history of sponsorship you're bound to find many great partners. 
 
 
-**Do you need to tell potential sponsors about the other sponsors you'll have?**
+**TODO**: other questions to add as section headers
 
-TODO
-
-**How much time should I spend on making a colorful prospectus?**
-
-**Who should you approach for funds first?**
-
-**What should you send in the first email to companies that you approach?**
-
-**A company committed but hasn't paid us yet. What should I do?**
-
-**How many sponsorship tiers should we have?**
+- Do you need to tell potential sponsors about the other sponsors you'll have?
+- How much time should I spend on making a colorful prospectus?
+- Who should you approach for funds first?
+- What should you send in the first email to companies that you approach?
+- A company committed but hasn't paid us yet. What should I do?
+- How many sponsorship tiers should we have?
