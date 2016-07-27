@@ -1,17 +1,23 @@
 ##Raising money for your (First) Python workshop with corporate sponsorships
 ####By Trey Hunner & Lorena Mesa
 
-*Myth: Companies aren't interested in your events.* 
+If you're planning to run a programming workshop, you'll probably need to raise money to cover the cost of food, venue, and decorations.  You can ask the PSF for a grant (and [you should](https://www.python.org/psf/grants/))!  But PSF grants aren't the only place to seek financial help for your workshop.  You should also consider identifying companies that will sponsor your event.
 
-Take any group of coders and ask them how they found their job. You're more than likely to find that coders found their company because that company sponsored a workshops or a particular group or conference that interests them. 
+**Why would companies want to give you money?**
 
-As a Python shop, then, it is in a company's interest to promote a Python events in their area! Companies receive quite a bit more than verbal recognition when they sponsor events they put themselves on the radar of passionate inquisitive coders, the type of folks they often want to hire!
+~~*Myth: Companies aren't interested in your events.* 
 
-**Remember it is a win-win relationship. Companies receive several perks including marketing and recruitment traction.** 
+Take any group of coders and ask them how they found their job. You're more than likely to find that coders found their company because that company sponsored a workshops or a particular group or conference that interests them.
 
-Obtaining corporate sponsorship isn't about convincing companies it is in their best interest to sponsor you instead it's about finding the right companies to sponsor you. 
+As a Python shop, then, it is in a company's interest to promote a Python events in their area! Companies receive quite a bit more than verbal recognition when they sponsor events they put themselves on the radar of passionate inquisitive coders, the type of folks they often want to hire!~~
 
-**When targeting companies begin by defining audience of your event - who is going to be participating, what folks care about the event content. Your audience makes your event unique and worth investing in!**
+Companies may be interested in sponsoring Python workshops for a number of reasons.  If a company is hiring new developers, they may hope to interest your volunteers and workshop attendees in working for their company or referring their friends to work for their company.  They may also want to raise awareness of their services to your workshop attendees.  Or they may simply be out to sponsor your event because it makes their employees feel good to assist constructive community-building efforts in their neighborhood.
+
+Remember it is a **win-win relationship**. Companies receive several perks including marketing and recruitment traction.
+
+~~Obtaining corporate sponsorship isn't about convincing companies it is in their best interest to sponsor you: instead it's about finding the right companies to sponsor you.~~ (not sure what that statement means. A convincing pitch seems worthwhile.)
+
+**When targeting companies begin by defining the audience of your event - who is going to be participating, what folks care about the event content. Your audience makes your event unique and worth investing in!**
 
 By defining the audience for your event you can narrow the scope of companies you want to approach. 
 
@@ -24,10 +30,19 @@ From our audience we knew to look for companies that:
 * Are passionate about diversity 
 * Offer training opportunities 
 
-###TODO: More info on how to refine the search for companies + link for more discussion?
+**TODO**: More info on how to refine the search for companies + link for more discussion?
 
+**What should you promise companies in return for sponsorship?**
 
-**Define some specific asks. Sometimes asking for a blanket sum of money may alienate companies.** 
+Define some specific asks. Asking for a blanket sum of money could alienate companies.
+
+You are the one driving the conversation and you are the one **setting expectations**.  As such you want to make sure that you clearly define what companies will receive in return for their sponsorship.
+
+**How much money should we ask each company for?**
+
+**TODO**: make a prospectus with sponsorship tiers
+
+**TODO not sure yet what question this section answers...**
 
 Depending on the company you reach out to they may want more or less information. Some questions to ask yourself about how to frame your request:
 
@@ -43,11 +58,14 @@ If you don't have access to this information start simple by creating a budget a
 
 Back to our PyLadies Chicago event we only needed a food and venue sponsor.
 
-**How much funding is enough? Do you want to plan for a rainy day or not?**
+**When should you stop fundraising? How much funding is enough?**
 
 Again this depends on the scope of the event. Organizing a 2 hour panel with 50 attendees is significantly different than organizing a one day training workshop for 50 people. You'll want to plan to have a bigger cushion. 
 
-###TODO: Link to how to create a budget, perhaps more discussion?
+**TODO**: Don't be too afraid of taking in too much money because you can use extra funding for future events. It's better to have too money leftover than to have your organizers lose money on a workshop.
+
+**TODO**: Link to how to create a budget, perhaps more discussion?
+
 For creating a detailed budget read this thing
 
 Generally having extra isn't a terrible thing, depending on how you raise funds (receiving monies or having sponsor pay directly) you can have spare for another event. 
@@ -63,12 +81,27 @@ There are several Python communities you can reach out to including:
 * [IRC Python channels](https://www.python.org/community/irc/)
 * Twitter!
 
-###TODO: More and/or better resources?
+**TODO**: More and/or better resources?
 
 **Lastly it isn't about the volume of sponsors you have but the quality.**
 
-###TODO: How can we soften this language? I think it's really important not to dissuade but to manage expectations (prevent burn out and all :-) )
+**TODO**: How can we soften this language? I think it's really important not to dissuade but to manage expectations (prevent burn out and all :-) )... maybe we can instead angle this as a "seek out sponsors who want to be involved with your event and help you organize, plan on-site logistics, or be present during the day of your event".  It's good to have sponsors that feel they have some skin in the game.
 
 It's more meaningful to have 2 good partners than to have 10 who don't care about your event. Likewise spamming companies for requests may make your future events be passed over. 
 
 If you appeal to the companies that value your values in a way that speaks to their history of sponsorship you're bound to find many great partners. 
+
+
+**Do you need to tell potential sponsors about the other sponsors you'll have?**
+
+TODO
+
+**How much time should I spend on making a colorful prospectus?**
+
+**Who should you approach for funds first?**
+
+**What should you send in the first email to companies that you approach?**
+
+**A company committed but hasn't paid us yet. What should I do?**
+
+**How many sponsorship tiers should we have?**
